@@ -1,0 +1,22 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 50px;
+    width: 100%;
+    justify-content: center;
+    
+  }
+  
+  .footer a {
+    font-size: 0.9rem;
+    text-decoration: none;
+    font-weight: 600;
+    color: #6927FF;
+  }
+  
+  .footer a:hover,
+  .footer a:active {
+    color: black;
+  }
+  
