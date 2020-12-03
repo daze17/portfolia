@@ -1,0 +1,20 @@
+.aboutMe h1{
+  letter-spacing: 3px;
+  font-size: 3.5rem;
+}
+.niceday {
+  display: flex;
+  padding-bottom: 4rem;
+  font-size: 2.8rem;
+  justify-content: flex-end;
+}
+@media screen and (max-width: 900px) {
+  .container  {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    width: 90%;
+    
+  }
+}
